@@ -1293,6 +1293,8 @@ MonoBehaviour:
   Add1text: {fileID: 383308245}
   RandomNameText: {fileID: 1534309579}
   ColorChange: {fileID: 1871702501}
+  Add1Number: 0
+  timer: 0
   names:
   - Sandra Key
   - Chaz Novak
@@ -1624,7 +1626,7 @@ MonoBehaviour:
 
 
     While you wait for others
-    to finish please try to make this text rotate endlessly.'
+    to finish please comment the code you have just fixed to tell me what it does.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
