@@ -7,6 +7,10 @@ TagManager:
   - Death
   - Ground
   - spawnpoint
+  - FloorSpawn
+  - WallSpawn
+  - TorchSpawn
+  - ItemSpawn
   layers:
   - Default
   - TransparentFX
